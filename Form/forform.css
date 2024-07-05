@@ -1,0 +1,21 @@
+h1
+{
+    text-align: center;
+    background-color: red;
+    padding: 10px;
+    margin: 10px;
+    
+}
+div
+{
+    text-align: center;
+}
+*
+{
+    background-color: chocolate;
+}
+.bx
+{
+    text-align: center;
+    padding: 15px;
+}
